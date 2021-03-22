@@ -1,0 +1,6 @@
+[submodule "deps/boost-cmake"]
+	path = deps/boost-cmake
+	url = https://github.com/Orphis/boost-cmake.git
+[submodule "deps/sleepy-discord"]
+	path = deps/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord
